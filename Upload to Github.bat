@@ -1,7 +1,7 @@
 @echo off
 
 REM Ссылка на GitHub репозиторий
-set REPO_URL=https://raw.githubusercontent.com/NadHit/avia_1/refs/heads/main/
+set REPO_URL=https://github.com/NadHit/avia_1.git
 
 git remote remove origin
 git init
